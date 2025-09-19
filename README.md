@@ -28,8 +28,6 @@ This middleware sits at the intersection of **trust, governance, and personaliza
 ---
 
 ## 🏗 Architecture  
-
-```mermaid
 flowchart TD
     A[Transcript Upload] --> B[Secure Case Ingestion]
     B --> C[Multi-Agent Processing]
