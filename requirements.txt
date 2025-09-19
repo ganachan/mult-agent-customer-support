@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+requests
+openai
+semantic-kernel==1.11.0
+azure-search-documents
+pymongo
+azure-storage-blob
+azure-communication-email
+httpx
