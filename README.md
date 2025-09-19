@@ -57,31 +57,6 @@ Trusted Resolution Summary → With validation logs for explainability
 Personalized AI Avatar → Deliver resolution as empathetic video response
 MCP Tools Integration → Search Microsoft Learn for verified knowledge
 
-# Azure OpenAI
-AZURE_OPENAI_ENDPOINT=""
-AZURE_OPENAI_API_KEY=""
-AZURE_OPENAI_DEPLOYMENT_NAME=""
-
-# Azure AI Search
-AZURE_SEARCH_ENDPOINT=""
-AZURE_SEARCH_KEY=""
-AZURE_SEARCH_INDEX=""
-
-# Cosmos DB
-AZCOSMOS_CONNSTR=""
-AZCOSMOS_DATABASE_NAME=""
-AZCOSMOS_CONTAINER_NAME=""
-
-# Speech / Avatar / Blob
-SPEECH_SUBSCRIPTION_KEY=""
-SPEECH_ENDPOINT=""
-BLOB_CONNECTION_STRING=""
-BLOB_CONTAINER_NAME=""
-
-# Email Service
-AZURE_COMMUNICATION_EMAIL_CONNECTION_STRING=""
-EMAIL_SENDER_ADDRESS=""
-
 git clone https://github.com/<your-org>/<your-repo>.git
 cd <your-repo>
 pip install -r requirements.txt
