@@ -5,7 +5,7 @@
 ## 📌 Overview  
 The **Enterprise Trust Layer Middleware for AI Agents** is a governance-first middleware designed to help enterprises deploy AI agents responsibly at scale.  
 
-This project aims to develop a hybrid trust layer middleware for autonomous AI agents in enterprise customer support environments. The middleware integrates with major CRM platforms (ServiceNow, Salesforce, Zendesk, Dynamics) via drop-in APIs. It provides real-time verification for high-risk cases (legal, compliance, billing), using lightweight ML/SLM models to block or flag untrustworthy responses before delivery. For all interactions, a post-response audit dashboard offers traceability, hallucination metrics, drift detection, and sentiment analysis, empowering compliance and governance teams to oversee agentic decisions. The solution addresses critical adoption friction by making every AI response traceable, verifiable, and auditable, satisfying legal/regulatory requirements and fostering enterprise trust
+This project builds a hybrid trust layer middleware for autonomous AI agents in enterprise customer support. The middleware integrates with major CRM platforms (ServiceNow, Salesforce, Zendesk, Dynamics) via drop-in APIs. It provides real-time verification for high-risk cases (legal, compliance, billing) using lightweight ML/SLM models to block or flag untrustworthy responses before delivery. An audit dashboard ensures full traceability and empowers compliance and governance teams to oversee agentic decisions — making every AI response verifiable, auditable, and enterprise-ready.
 
 It combines:  
 - **Multi-Agent Orchestration** (Manager, Analysis, Executor, Notification)  
